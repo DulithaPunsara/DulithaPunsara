@@ -21,11 +21,17 @@ Optimizing algorithms for system efficiency
 🚀 My Projects:
 
 Blood Donation System - Built using Enterprise Application Development technologies.
+
 Gym Management System - A web application for managing gym operations.
+
 PharmaNet - A comprehensive pharmacy management system using React and Spring Boot.
+
 Highway Management System - Implemented using algorithms for real-time data tracking and management.
+
 Orange Juice Making Machine - An automated machine built using Arduino.
+
 E-Shopping Cart - Created with logic gates for an enhanced shopping experience.
+
 Student Management System - Developed using C# for managing student information.
 
 📫 Let's connect:
