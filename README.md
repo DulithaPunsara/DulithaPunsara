@@ -69,6 +69,13 @@ UI/UX design, Java, Full Stack Development.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pawara-mmns&theme=dark&hide_border=true"/>
 </p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/dulithapunsara target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulitha samath punsara" height="30" width="40" /></a>
+<a href="https://x.com/DulithaSamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulitha samath punsara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007926526990&mibextid=wwXIfr&mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulitha samath punsara"" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dulitha_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulitha samath punsara" height="30" width="40" /></a>
+</p>
 
 
 
