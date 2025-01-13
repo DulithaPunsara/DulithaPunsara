@@ -47,8 +47,7 @@ Java, HTML, CSS, JavaScript, Python.
 - 💬 Ask me about:
 UI/UX design, Java, Full Stack Development.
 
-- ⚡ Fun fact:
-Nickname: Casper, my gaming alias!
+
 <br>
 <br>
 
