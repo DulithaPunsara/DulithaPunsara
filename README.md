@@ -1,5 +1,5 @@
  ![Hi, I'm Dulitha Samath Punsara ! 👋 ^_^](https://media.giphy.com/media/1wW4sjM3OTFJ9gD0Hq/giphy.gif)
-
+https://camo.githubusercontent.com/86d3ead6856bb630b6903a86a9f2fe5afa60c26f726a5b10eba83c76406af5b5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333646444134342673697a653d33322663656e7465723d74727565267643656e7465723d747275652677696474683d363030266865696768743d3530266c696e65733d57656c636f6d652b746f2b6d792b4769744875622b70726f66696c65212546302539462539312538423b4173706972696e672b536f6674776172652b456e67696e6565723b50617373696f6e6174652b46756c6c2d537461636b2b446576656c6f7065723b43726561746976652b55492f55582b44657369676e65723b456e746875736961737469632b47616d6572f09f8eae3b
 
 ## A Passionate Full-Stack Developer and UI/UX Designer
 The ever-evolving landscape of technology 🌐 has always intrigued me, driving my early decision to pursue software engineering. As I continue to immerse myself in full-stack development, my passion for crafting intuitive and impactful digital experiences has only grown stronger. I am dedicated to exploring the latest tech stacks 💻 and leveraging them to build innovative solutions 🛠️ that resonate with users.
