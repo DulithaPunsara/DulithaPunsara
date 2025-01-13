@@ -1,4 +1,4 @@
-# Hi, I'm Dulitha Samath Punsara! 👋 ^_^(https://media.giphy.com/media/example-gif-url/giphy.gif)
+# Hi, I'm Dulitha Samath Punsara! 👋 ^_^https://media.giphy.com/media/example-gif-url/giphy.gif
 ## A Passionate Full-Stack Developer and UI/UX Designer
 The ever-evolving landscape of technology 🌐 has always intrigued me, driving my early decision to pursue software engineering. As I continue to immerse myself in full-stack development, my passion for crafting intuitive and impactful digital experiences has only grown stronger. I am dedicated to exploring the latest tech stacks 💻 and leveraging them to build innovative solutions 🛠️ that resonate with users.
 
