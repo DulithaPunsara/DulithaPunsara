@@ -65,9 +65,7 @@ UI/UX design, Java, Full Stack Development.
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pawara-mmns&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pawara-mmns&theme=dark&hide_border=true"/>
-</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
