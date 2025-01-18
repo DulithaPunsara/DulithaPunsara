@@ -57,12 +57,12 @@ UI/UX design, Java, Full Stack Development.
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
+
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=DulithaPunsara&show_icons=true&theme=radical" alt="GitHub Stats"/>
-   user=DulithaPunsara&theme=radical"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulithaPunsara&layout=compact&theme=radical" alt="Top Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=DulithaPunsara&show_icons=true&theme=radical" alt="GitHub Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=DulithaPunsara&theme=radical" alt="GitHub Streak Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulithaPunsara&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
