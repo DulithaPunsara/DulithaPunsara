@@ -60,7 +60,7 @@ UI/UX design, Java, Full Stack Development.
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=DulithaPunsara&show_icons=true&theme=radical" alt="GitHub Stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=DulithaPunsara&theme=radical" alt="GitHub Streak Stats" />
+  
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulithaPunsara&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
